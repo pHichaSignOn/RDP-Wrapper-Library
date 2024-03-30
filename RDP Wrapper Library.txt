@@ -1,6 +1,6 @@
 ; RDP Wrapper Library configuration
 ; Do not modify without special knowledge
-; Edited by sebaxakerhtc
+; Edited
 
 [Main]
 Updated=2023-03-30
